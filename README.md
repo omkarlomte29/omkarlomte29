@@ -2,7 +2,7 @@
 
 ![68747470733a2f2f7061312e616d696e6f617070732e636f6d2f363434332f623662613762626162613132656163313434313065396638643538313435636134373034393732355f68712e676966](https://github.com/user-attachments/assets/2401c177-a9a5-4c7b-a999-fe0adc1882d5)
 
-<h1> Hey 👋, I'm Omkar Lomte</h1>
+<h1><center> Hey 👋, I'm Omkar Lomte </center></h1>
 <br>
 <h3> A Full-Stack Developer From India 🤖🧑‍💻 </h3>
 <br>
