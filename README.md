@@ -15,13 +15,13 @@
 </div>
 <br/>
   <h4> 
-  - 
+  - About :
     
   - 💻  I’m currently completing my graduation from Mumbai University.
   
-  - 📗  I’m currently learning Product Design and Figma.
+  - 📗  I’m currently learning about Web Development.
   
-  - 🙋  Ask me about anything related to MERN stack and Movies. 
+  - 🙋  Ask me about anything related to MERN stack and Movies 😉.  
     
   - 👾  Fun fact: I am always keen & I own a computer :) 
   
