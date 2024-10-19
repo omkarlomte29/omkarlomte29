@@ -1,6 +1,6 @@
 > Hi there,👋
 
-![68747470733a2f2f7061312e616d696e6f617070732e636f6d2f363434332f623662613762626162613132656163313434313065396638643538313435636134373034393732355f68712e676966](https://github.com/user-attachments/assets/2401c177-a9a5-4c7b-a999-fe0adc1882d5)
+![MasterHead](https://pa1.aminoapps.com/6443/b6ba7bbaba12eac14410e9f8d58145ca47049725_hq.gif) 
 
 <h1> 
   Hey 👋, I'm Omkar Lomte 
@@ -19,7 +19,8 @@
 </h4>
 
 <h2>📱 Socials: </h2>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkar-lomte29/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aniket-verma-b305211b9/)
+
   
 <!--
 **omkarlomte29/omkarlomte29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
