@@ -14,10 +14,11 @@
   </b> 
 </div>
 <br/>
-  <h4>
-      -
-  </h4>
+<h4>
+      
+</h4>
 
+<h2>📱 Socials: </h2>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkar-lomte29/)
   
 <!--
