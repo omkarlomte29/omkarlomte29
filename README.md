@@ -30,7 +30,7 @@
   </h4>
 
 <h2>📱 Socials: </h2>
-## [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aniket-verma-b305211b9/)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)(https://www.linkedin.com/in/aniket-verma-b305211b9/)
 
 <!--
 **omkarlomte29/omkarlomte29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
