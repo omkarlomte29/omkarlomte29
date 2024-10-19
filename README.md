@@ -9,21 +9,21 @@
 <div align="center"> 
   <b> 
     <h2> 
-      A Full-Stack Developer From India 🤖🧑‍💻 
+      A Developer 🤖🧑‍💻 
     </h2>
   </b> 
 </div>
 <br/>
   <h4> 
-  - 💻  I’m currently working on making SaaS Platform ( Personal work xD ).
+  - 💻  I’m currently completing my graduation from Mumbai University.
   
   - 📗  I’m currently learning Product Design and Figma.
   
-  - 🙋  Ask me about anything related to MERN stack and Anime. 
+  - 🙋  Ask me about anything related to MERN stack and Movies. 
     
   - 👾  Fun fact: I am always keen & I own a computer :) 
   
-  - 🛸  Reach me at **aniketvetma1303@gmail.com**
+  - 🛸  Reach me at **omkarlomte29@gmail.com**
   <br/>  
   </h4>
 
