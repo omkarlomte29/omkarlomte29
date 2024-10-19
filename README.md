@@ -29,9 +29,11 @@
   <br/>  
   </h4>
 
+<!--
 <h2>📱 Socials: </h2>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/omkar-lomte29/)
-
+https://github.com/Aniket-x-code/Aniket-x-code
+-->
 
 <!--
 **omkarlomte29/omkarlomte29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
