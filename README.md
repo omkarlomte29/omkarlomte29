@@ -9,7 +9,7 @@
 <div align="center"> 
   <b> 
     <h2> 
-      A Developer 🤖🧑‍💻 
+      Software Developer 🤖🧑‍💻 
     </h2>
   </b> 
 </div>
@@ -17,35 +17,14 @@
   <h4> 
   - About :
     
-  - 💻  I’m currently completing my graduation from Mumbai University.
+  - 💻  I completed my graduation from Mumbai University.
   
-  - 📗  I’m currently learning about Web Development.
+  - 📗  I’m currently learning about Web Development and Java Full Stack.
   
   - 🙋  Ask me about anything related to MERN stack and Movies 😉.  
     
   - 👾  Fun fact: I am always keen & I own a computer :) 
   
-  - 🛸  Reach me at **omkarlomte29@gmail.com**
+  - 🛸  Reach me at **omkarlomte2003@gmail.com**
   <br/>  
   </h4>
-
-<!--
-<h2>📱 Socials: </h2>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/omkar-lomte29/)
-https://github.com/Aniket-x-code/Aniket-x-code
--->
-
-<!--
-**omkarlomte29/omkarlomte29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
